@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://www.figma.com/design/BYhluRvCjoCwa9PKjVtbZX/Details",
+  "descriptionHash": "1c1812076fed1f2edd624ed075db0b19d819b0e9d517d701ee26577d864b8165",
+  "manifest": {
+    "schemaVersion": 1,
+    "provider": "figma",
+    "sourceUrl": "https://www.figma.com/design/BYhluRvCjoCwa9PKjVtbZX/Details",
+    "fileKey": "BYhluRvCjoCwa9PKjVtbZX",
+    "version": "2407567011818845436",
+    "lastModified": "2026-10-09T09:27:04Z",
+    "capturedAt": "2026-10-16T14:03:19.887Z",
+    "requestedNodeIds": [],
+    "figmaJsonPath": "figma.json",
+    "renders": [
+      {
+        "designReference": "render-confirmation-page-2-241",
+        "nodeId": "2:241",
+        "nodeName": "Confirmation page",
+        "pageName": "Page 1",
+        "path": "images/render-1.png",
+        "sha256": "78109d11b643590c9f23ac3280e2392a1311b706433a2be7898a0309fa765d45"
+      },
+      {
+        "designReference": "render-contact-form-page-2-200",
+        "nodeId": "2:200",
+        "nodeName": "Contact form page",
+        "pageName": "Page 1",
+        "path": "images/render-2.png",
+        "sha256": "9f042da2804f5d5191513ec93576eb45a42a4fd905ec139bdaa9c6babe35ecfa"
+      },
+      {
+        "designReference": "render-home-page-2-169",
+        "nodeId": "2:169",
+        "nodeName": "Home page",
+        "pageName": "Page 1",
+        "path": "images/render-3.png",
+        "sha256": "aebb57eb3ef6dc965cf557f542b011f9b7520c3a162c5efa4229a66391958fa9"
+      }
+    ]
+  },
+  "files": [
+    {
+      "path": "figma.json",
+      "reference": {
+        "documentId": "figma-capture-0",
+        "version": "0779cd0fb90fa1b682f8b6eda5d33095f17032f63f122c87b74f74dbbb4764c4",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "application/json",
+        "contentHash": "0898b82ca87d391421bbe52ab1e215b95e339070f75f13f207b87f5619bc689a",
+        "path": "work/674d9253-8ffe-468e-93c3-fb38b7c16298/executions/c608d620-c030-4f44-bef7-9725f856a05a/nodes/analysis/generated/0779cd0fb90fa1b682f8b6eda5d33095f17032f63f122c87b74f74dbbb4764c4/figma-capture-0.json",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/BYhluRvCjoCwa9PKjVtbZX/Details",
+          "figmaVersion": "2407567011818845436"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "4d965f4281a2dd2ec8fd9e5f926e1b827941755c",
+        "workId": "674d9253-8ffe-468e-93c3-fb38b7c16298",
+        "executionId": "c608d620-c030-4f44-bef7-9725f856a05a"
+      }
+    },
+    {
+      "path": "images/render-1.png",
+      "reference": {
+        "documentId": "figma-capture-1",
+        "version": "652f4730b3a7276ff0eaaa4543131f3f06f9cdb3f65722abd07eeb50d6e3b323",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "78109d11b643590c9f23ac3280e2392a1311b706433a2be7898a0309fa765d45",
+        "path": "work/674d9253-8ffe-468e-93c3-fb38b7c16298/executions/c608d620-c030-4f44-bef7-9725f856a05a/nodes/analysis/generated/652f4730b3a7276ff0eaaa4543131f3f06f9cdb3f65722abd07eeb50d6e3b323/figma-capture-1.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/BYhluRvCjoCwa9PKjVtbZX/Details",
+          "figmaVersion": "2407567011818845436",
+          "designReference": "render-confirmation-page-2-241",
+          "nodeId": "2:241"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "a9d26cbcd5612e2b53ffc2e66e0d77d6bd2616cd",
+        "workId": "674d9253-8ffe-468e-93c3-fb38b7c16298",
+        "executionId": "c608d620-c030-4f44-bef7-9725f856a05a"
+      }
+    },
+    {
+      "path": "images/render-2.png",
+      "reference": {
+        "documentId": "figma-capture-2",
+        "version": "c2e3373e7be2020c92b0088f08fac3fe84daa39656cfcfe2d21308f55beb8a80",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "9f042da2804f5d5191513ec93576eb45a42a4fd905ec139bdaa9c6babe35ecfa",
+        "path": "work/674d9253-8ffe-468e-93c3-fb38b7c16298/executions/c608d620-c030-4f44-bef7-9725f856a05a/nodes/analysis/generated/c2e3373e7be2020c92b0088f08fac3fe84daa39656cfcfe2d21308f55beb8a80/figma-capture-2.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/BYhluRvCjoCwa9PKjVtbZX/Details",
+          "figmaVersion": "2407567011818845436",
+          "designReference": "render-contact-form-page-2-200",
+          "nodeId": "2:200"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "9b9731a2ac710ce648ddf3047fc33c82bc961502",
+        "workId": "674d9253-8ffe-468e-93c3-fb38b7c16298",
+        "executionId": "c608d620-c030-4f44-bef7-9725f856a05a"
+      }
+    },
+    {
+      "path": "images/render-3.png",
+      "reference": {
+        "documentId": "figma-capture-3",
+        "version": "64a4906a6aa69e9a4b8be7fb1b565dbdc038b5ab63906bb51fb2a5b2efbc5274",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "aebb57eb3ef6dc965cf557f542b011f9b7520c3a162c5efa4229a66391958fa9",
+        "path": "work/674d9253-8ffe-468e-93c3-fb38b7c16298/executions/c608d620-c030-4f44-bef7-9725f856a05a/nodes/analysis/generated/64a4906a6aa69e9a4b8be7fb1b565dbdc038b5ab63906bb51fb2a5b2efbc5274/figma-capture-3.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/BYhluRvCjoCwa9PKjVtbZX/Details",
+          "figmaVersion": "2407567011818845436",
+          "designReference": "render-home-page-2-169",
+          "nodeId": "2:169"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "35509588e4c58c24e720c5e8963a837c37576cb7",
+        "workId": "674d9253-8ffe-468e-93c3-fb38b7c16298",
+        "executionId": "c608d620-c030-4f44-bef7-9725f856a05a"
+      }
+    }
+  ]
+}
