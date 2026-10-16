@@ -3,6 +3,7 @@
 Work: 674d9253-8ffe-468e-93c3-fb38b7c16298
 Execution: c608d620-c030-4f44-bef7-9725f856a05a
 
+- [design_description-c608d620-c030-4f44-bef7-9725f856a05a — generated — c969b974ed2f](nodes/analysis/generated/c969b974ed2f74d1ec9d5c4d240584bace9f0bb5215298343aa3e7b93c943446/design_description-c608d620-c030-4f44-bef7-9725f856a05a.md)
 - [figma-capture-0 — generated — 0779cd0fb90f](nodes/analysis/generated/0779cd0fb90fa1b682f8b6eda5d33095f17032f63f122c87b74f74dbbb4764c4/figma-capture-0.json)
 - [figma-capture-1 — generated — 652f4730b3a7](nodes/analysis/generated/652f4730b3a7276ff0eaaa4543131f3f06f9cdb3f65722abd07eeb50d6e3b323/figma-capture-1.png)
 - [figma-capture-2 — generated — c2e3373e7be2](nodes/analysis/generated/c2e3373e7be2020c92b0088f08fac3fe84daa39656cfcfe2d21308f55beb8a80/figma-capture-2.png)
