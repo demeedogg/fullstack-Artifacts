@@ -8,6 +8,7 @@ Execution: c608d620-c030-4f44-bef7-9725f856a05a
 - [ba5886e0-45b3-4f1a-848a-d9fc450ad19b-task_spec-implement-validated-contact-submission-confirmation — generated — a34f77d66ff7](nodes/plan_unit/generated/a34f77d66ff757eeaade280e81d222abc548c6864a535e8cab423d979a7c7f47/ba5886e0-45b3-4f1a-848a-d9fc450ad19b-task_spec-implement-validated-contact-submission-confirmation.md)
 - [backend — approved — 43ff4955a696](nodes/requirements_review/approved/43ff4955a69699865c98c5398313818f2af439c1bdde07660228b2920f954a93/backend.md)
 - [backend — drafts — 9809d3afbe52](nodes/requirements_review/drafts/9809d3afbe52d943b26eaf164c074d1afff804322c35a67b0a589fb8c040302f/backend.md)
+- [c54c455c-9272-4aaa-b7bb-7c2c6eddf493-task_spec-compose-and-verify-contact-journey — generated — ce5b4ba21f92](nodes/plan_unit/generated/ce5b4ba21f92c71effd9dc2985dbef4c0e09ad4e0192376572a7b8e47d2d8ecb/c54c455c-9272-4aaa-b7bb-7c2c6eddf493-task_spec-compose-and-verify-contact-journey.md)
 - [decision-provenance — approved — 03a2bc820f7f](nodes/requirements_review/approved/03a2bc820f7f22276ed23d670d7d51bc495f671513d990b4222efe479a870cc9/decision-provenance.json)
 - [decision-provenance — drafts — 64b79d74faea](nodes/requirements_review/drafts/64b79d74faeaa9e3f91b0d06c0d6ac54735a323d08c5c7bc09e3d352cc047372/decision-provenance.json)
 - [decomposition — generated — 7004d76c74ee](nodes/decompose/generated/7004d76c74ee01eeb9302967f24f49118cd4c540a5538ad3db1eaf61882dc443/decomposition.json)
