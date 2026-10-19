@@ -5,6 +5,7 @@ Execution: c608d620-c030-4f44-bef7-9725f856a05a
 
 - [8b51cfac-8d8d-4aa1-a07b-d2f60b6ce6e4-task_spec-build-three-page-shell-navigation — generated — 4ec6bf783980](nodes/plan_unit/generated/4ec6bf7839808347390736cbb7689b5beed8d8a13ac8434ce6671e3e5b99bf76/8b51cfac-8d8d-4aa1-a07b-d2f60b6ce6e4-task_spec-build-three-page-shell-navigation.md)
 - [8fa8daf3-6a04-41c1-87a1-768c48963d74-task_spec-implement-contact-submission-persistence — generated — 5ec2dd356238](nodes/plan_unit/generated/5ec2dd356238383cfc9bab7181a756ea0d242269bcc4ae3edb4f3fa0862bb680/8fa8daf3-6a04-41c1-87a1-768c48963d74-task_spec-implement-contact-submission-persistence.md)
+- [ba5886e0-45b3-4f1a-848a-d9fc450ad19b-task_spec-implement-validated-contact-submission-confirmation — generated — a34f77d66ff7](nodes/plan_unit/generated/a34f77d66ff757eeaade280e81d222abc548c6864a535e8cab423d979a7c7f47/ba5886e0-45b3-4f1a-848a-d9fc450ad19b-task_spec-implement-validated-contact-submission-confirmation.md)
 - [backend — approved — 43ff4955a696](nodes/requirements_review/approved/43ff4955a69699865c98c5398313818f2af439c1bdde07660228b2920f954a93/backend.md)
 - [backend — drafts — 9809d3afbe52](nodes/requirements_review/drafts/9809d3afbe52d943b26eaf164c074d1afff804322c35a67b0a589fb8c040302f/backend.md)
 - [decision-provenance — approved — 03a2bc820f7f](nodes/requirements_review/approved/03a2bc820f7f22276ed23d670d7d51bc495f671513d990b4222efe479a870cc9/decision-provenance.json)
