@@ -12,5 +12,6 @@ Execution: 43667ca6-2cdb-4478-98ae-31079dae62b1
 - [figma-capture-2 — generated — e192bae4f1e4](nodes/analysis/generated/e192bae4f1e441029c848873235c75e584c6fc1532536a97781fa93038426603/figma-capture-2.png)
 - [figma-capture-3 — generated — da2331830d91](nodes/analysis/generated/da2331830d9131e1ad2c6b2a6b8a49a33933f74e04986530bbcc533e619d38af/figma-capture-3.png)
 - [figma-capture-4 — generated — 18b4341c6a0f](nodes/analysis/generated/18b4341c6a0ffe2cf895f422b3689381aff93a45f9b86a6731a680fedf40abc6/figma-capture-4.png)
+- [figma-capture-5 — generated — 64da0f3d6054](nodes/analysis/generated/64da0f3d6054f3a7cba56abe5f41925cb20b96e1a46b82c4a7d33687354e8723/figma-capture-5.png)
 - [repo_analysis-task-managment-backend-21c6dc4a — generated — 87cededa9f2b](nodes/analysis/generated/87cededa9f2b1978973c937e59414ee2a499648d801f77b0ab999dbd1a183316/repo_analysis-task-managment-backend-21c6dc4a.md)
 - [repo_analysis-task-managment-frontend-8577187c — generated — b3ed1d52d111](nodes/analysis/generated/b3ed1d52d111e2deac34901d036a914f805c376e1df84c6e13fde6e173488594/repo_analysis-task-managment-frontend-8577187c.md)
