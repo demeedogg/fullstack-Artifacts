@@ -20,6 +20,7 @@ Execution: 43667ca6-2cdb-4478-98ae-31079dae62b1
 - [figma-capture-19 — generated — c9648b3045e1](nodes/analysis/generated/c9648b3045e1f4323bf02a471d95dd11dabb71013f3f4b053de4e6fcc0a4aee8/figma-capture-19.png)
 - [figma-capture-1 — generated — 5c005a2262f8](nodes/analysis/generated/5c005a2262f810479d95413677a403758539566ffa1c3716cb910bfa34d45353/figma-capture-1.png)
 - [figma-capture-20 — generated — a6fe3533a98e](nodes/analysis/generated/a6fe3533a98e29092be0423a9193ee6bb4333a16ec29498175617ebea98cc692/figma-capture-20.png)
+- [figma-capture-21 — generated — f53309754b9b](nodes/analysis/generated/f53309754b9b6cde010f9e559aa5b7a7f3fbb238966154eb67a64e713ebf1185/figma-capture-21.png)
 - [figma-capture-2 — generated — e192bae4f1e4](nodes/analysis/generated/e192bae4f1e441029c848873235c75e584c6fc1532536a97781fa93038426603/figma-capture-2.png)
 - [figma-capture-3 — generated — da2331830d91](nodes/analysis/generated/da2331830d9131e1ad2c6b2a6b8a49a33933f74e04986530bbcc533e619d38af/figma-capture-3.png)
 - [figma-capture-4 — generated — 18b4341c6a0f](nodes/analysis/generated/18b4341c6a0ffe2cf895f422b3689381aff93a45f9b86a6731a680fedf40abc6/figma-capture-4.png)
