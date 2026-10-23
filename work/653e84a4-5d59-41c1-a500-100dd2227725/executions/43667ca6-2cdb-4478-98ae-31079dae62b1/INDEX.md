@@ -79,6 +79,7 @@ Execution: 43667ca6-2cdb-4478-98ae-31079dae62b1
 - [figma-capture-8 — generated — e8c1ca12dd6e](nodes/analysis/generated/e8c1ca12dd6e4b91d87bfc4af9e702e73d4cfa61f9da8ef401f588e40121e160/figma-capture-8.png)
 - [figma-capture-9 — generated — 88367ec22444](nodes/analysis/generated/88367ec22444e0f7f5ac30d92a4e2e49554080184762f873c32eb3c33bc13bf4/figma-capture-9.png)
 - [figma-capture — generated — c9106c9d2ffc](nodes/analysis/generated/c9106c9d2ffcd9870e9d842911dd12b6cf2d4a115c27a1e02cbbc67e31351478/figma-capture.json)
+- [frontend — drafts — 84f38bef1310](nodes/requirements_review/drafts/84f38bef1310a97f027100185b74542774208c0cab8f3348ec321a66b4a87a40/frontend.md)
 - [repo_analysis-backend-template-ba4f4065 — generated — 0853b51df87b](nodes/analysis/generated/0853b51df87be6f9ff8779ae6f4ebe9745edb9631ee187787a855097b96bac62/repo_analysis-backend-template-ba4f4065.md)
 - [repo_analysis-task-managment-backend-21c6dc4a — generated — 87cededa9f2b](nodes/analysis/generated/87cededa9f2b1978973c937e59414ee2a499648d801f77b0ab999dbd1a183316/repo_analysis-task-managment-backend-21c6dc4a.md)
 - [repo_analysis-task-managment-frontend-8577187c — generated — b3ed1d52d111](nodes/analysis/generated/b3ed1d52d111e2deac34901d036a914f805c376e1df84c6e13fde6e173488594/repo_analysis-task-managment-frontend-8577187c.md)
