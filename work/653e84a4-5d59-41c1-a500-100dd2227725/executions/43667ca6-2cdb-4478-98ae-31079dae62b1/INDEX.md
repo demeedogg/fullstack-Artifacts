@@ -81,6 +81,7 @@ Execution: 43667ca6-2cdb-4478-98ae-31079dae62b1
 - [figma-capture-8 — generated — e8c1ca12dd6e](nodes/analysis/generated/e8c1ca12dd6e4b91d87bfc4af9e702e73d4cfa61f9da8ef401f588e40121e160/figma-capture-8.png)
 - [figma-capture-9 — generated — 88367ec22444](nodes/analysis/generated/88367ec22444e0f7f5ac30d92a4e2e49554080184762f873c32eb3c33bc13bf4/figma-capture-9.png)
 - [figma-capture — generated — c9106c9d2ffc](nodes/analysis/generated/c9106c9d2ffcd9870e9d842911dd12b6cf2d4a115c27a1e02cbbc67e31351478/figma-capture.json)
+- [frontend — drafts — 7699aca80f75](nodes/requirements_review/drafts/7699aca80f75b6d7e4fd5310ea156128a633b300ace860847855c07bd04300c6/frontend.md)
 - [frontend — drafts — 84f38bef1310](nodes/requirements_review/drafts/84f38bef1310a97f027100185b74542774208c0cab8f3348ec321a66b4a87a40/frontend.md)
 - [issue-audit — drafts — 7852dbb258e5](nodes/requirements_review/drafts/7852dbb258e54f5fa30fcbc8902e40c2564627f31153e9ad20dc6baf2c75eb37/issue-audit.json)
 - [repo_analysis-backend-template-ba4f4065 — generated — 0853b51df87b](nodes/analysis/generated/0853b51df87be6f9ff8779ae6f4ebe9745edb9631ee187787a855097b96bac62/repo_analysis-backend-template-ba4f4065.md)
