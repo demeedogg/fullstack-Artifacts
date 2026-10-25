@@ -6,6 +6,7 @@ Execution: 43667ca6-2cdb-4478-98ae-31079dae62b1
 - [backend — drafts — 842d745087b6](nodes/requirements_review/drafts/842d745087b64c961b4c97cde1092c84b8a3dc763c8aadc248e73172508100d6/backend.md)
 - [backend — drafts — 880f3e22523d](nodes/requirements_review/drafts/880f3e22523da976893d0cc6bb1f3891ea9a6dbc6483f4277f4c4ecec8516106/backend.md)
 - [decision-provenance — drafts — 14d7c19291f5](nodes/requirements_review/drafts/14d7c19291f549e87f96350e92edc5b0da66c72a32b6185cf5d0110d4be5e3a0/decision-provenance.json)
+- [decision-provenance — drafts — 969fab185379](nodes/requirements_review/drafts/969fab18537981f64f6c6fd46543eea369731054f46a5a25645a8a68b43d01b8/decision-provenance.json)
 - [design_description-43667ca6-2cdb-4478-98ae-31079dae62b1 — generated — 1a96bee00d70](nodes/analysis/generated/1a96bee00d7060558c543b5256962ae81c9c3c0deafff07c9e53e0d826d84a80/design_description-43667ca6-2cdb-4478-98ae-31079dae62b1.md)
 - [figma-capture-0-chunk-0 — generated — f74b3c0cb38e](nodes/analysis/generated/f74b3c0cb38eb9c4ef4f52dc486e36d42f24ee56b655cd1991e253ad3b30b7f1/figma-capture-0-chunk-0.bin)
 - [figma-capture-0-chunk-1 — generated — fb36e9da36b7](nodes/analysis/generated/fb36e9da36b7ae16a97dde3994621f6bf7b041ba3cb76be655353380b07cfe2e/figma-capture-0-chunk-1.bin)
