@@ -1,0 +1,2345 @@
+{
+  "schemaVersion": 2,
+  "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+  "descriptionHash": "8d4bc332d0a08160862e74385c7b321d7c770af6ac68b2ef4f8de95076fd4f96",
+  "manifest": {
+    "schemaVersion": 1,
+    "provider": "figma",
+    "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+    "fileKey": "Ezc70J9Mih8Jsez3mJisza",
+    "version": "2410903699439765849",
+    "lastModified": "2026-10-16T10:07:32Z",
+    "capturedAt": "2026-10-26T11:37:44.096Z",
+    "requestedNodeIds": [],
+    "figmaJsonPath": "figma.json",
+    "renders": [
+      {
+        "designReference": "render-label-2-197",
+        "nodeId": "2:197",
+        "nodeName": "Label",
+        "pageName": "📷 Thumbnail",
+        "path": "images/render-1.png",
+        "sha256": "120f0e7b6fa070ac818ed54b011420762b9e6076e73a499e3cc2efb8de7ddf8b"
+      },
+      {
+        "designReference": "render-label-2-204",
+        "nodeId": "2:204",
+        "nodeName": "Label",
+        "pageName": "📷 Thumbnail",
+        "path": "images/render-2.png",
+        "sha256": "e160041a64d7b27cf3b94991418d2fc863ca6f23d659e5c6cce587a7205e033f"
+      },
+      {
+        "designReference": "render-cover-2-211",
+        "nodeId": "2:211",
+        "nodeName": "Cover",
+        "pageName": "📷 Thumbnail",
+        "path": "images/render-3.png",
+        "sha256": "a8b6e65505442bf2d81168ab566e7430e9e72cd54d4ff94e617be8ed9a1a58d8"
+      },
+      {
+        "designReference": "render-license-2-1762",
+        "nodeId": "2:1762",
+        "nodeName": "License",
+        "pageName": "📷 Thumbnail",
+        "path": "images/render-4.png",
+        "sha256": "28797427ffa176351b176b611206cb200c4c14654b504a9d91180be74b5802eb"
+      },
+      {
+        "designReference": "render-icon-general-2-2646",
+        "nodeId": "2:2646",
+        "nodeName": "Icon/General",
+        "pageName": "💅 Design Style",
+        "path": "images/render-5.png",
+        "sha256": "25277b26c3794c221435c1de157c2cf63d901b51b4598114fb2ac506e6c4a819"
+      },
+      {
+        "designReference": "render-color-style-2-46689",
+        "nodeId": "2:46689",
+        "nodeName": "Color Style",
+        "pageName": "💅 Design Style",
+        "path": "images/render-6.png",
+        "sha256": "86a62d899a86a1baeca0ebed1a010e86f25f0864d3874597eafaf3d8d63f5955"
+      },
+      {
+        "designReference": "render-button-2-47116",
+        "nodeId": "2:47116",
+        "nodeName": "Button",
+        "pageName": "💅 Design Style",
+        "path": "images/render-7.png",
+        "sha256": "7cb4ce2a98156c504343ab14fff1e69982de1814aa189e3ffd24045b8825e971"
+      },
+      {
+        "designReference": "render-content-2-47744",
+        "nodeId": "2:47744",
+        "nodeName": "Content",
+        "pageName": "💅 Design Style",
+        "path": "images/render-8.png",
+        "sha256": "decf374f37a29422967bc5a73585bf5ff1153358cd21a346d2f83fe6bfb19b3a"
+      },
+      {
+        "designReference": "render-typography-2-48216",
+        "nodeId": "2:48216",
+        "nodeName": "Typography",
+        "pageName": "💅 Design Style",
+        "path": "images/render-9.png",
+        "sha256": "e989e728764d0e920c26070f0d03fcd9fed65370cbc8404e05b3b04f61f8387d"
+      },
+      {
+        "designReference": "render-web---dashboard-84-2544",
+        "nodeId": "84:2544",
+        "nodeName": "Web - Dashboard",
+        "pageName": "🦴 Wireframe",
+        "path": "images/render-10.png",
+        "sha256": "8f3316a8550fa8ca03515eb499fc1d1c38e1f598c4c0612592131bddc5b0fc4c"
+      },
+      {
+        "designReference": "render-mobile---dashboard-84-2820",
+        "nodeId": "84:2820",
+        "nodeName": "Mobile - Dashboard",
+        "pageName": "🦴 Wireframe",
+        "path": "images/render-11.png",
+        "sha256": "6654bcfc2d46362e0f29e87a121e954a9e1c50ddae2529c3cfcad051dccd4dea"
+      },
+      {
+        "designReference": "render-web---task-90-3615",
+        "nodeId": "90:3615",
+        "nodeName": "Web - Task",
+        "pageName": "🦴 Wireframe",
+        "path": "images/render-12.png",
+        "sha256": "c92560e05de09a3a0854f7284065aebcbe8448c1e7305ba87621e7b091914df9"
+      },
+      {
+        "designReference": "render-mobile---task-94-2936",
+        "nodeId": "94:2936",
+        "nodeName": "Mobile - Task",
+        "pageName": "🦴 Wireframe",
+        "path": "images/render-13.png",
+        "sha256": "bb4211c88d575125988419ceae91c626af861189a69df87d8f021e44a60e42ff"
+      },
+      {
+        "designReference": "render-web---detail-task-95-3635",
+        "nodeId": "95:3635",
+        "nodeName": "Web - Detail Task",
+        "pageName": "🦴 Wireframe",
+        "path": "images/render-14.png",
+        "sha256": "307e803633f6b9a043e79f332706eca2f534d8e907ca728ef7e9bf6d537c7067"
+      },
+      {
+        "designReference": "render-mobile---detail-task-95-3773",
+        "nodeId": "95:3773",
+        "nodeName": "Mobile - Detail Task",
+        "pageName": "🦴 Wireframe",
+        "path": "images/render-15.png",
+        "sha256": "c2930a375e5fad45d5dd97478bfd663fd5f3edadaea23b685035204ece757a95"
+      },
+      {
+        "designReference": "render-web---mentors-98-2847",
+        "nodeId": "98:2847",
+        "nodeName": "Web - Mentors",
+        "pageName": "🦴 Wireframe",
+        "path": "images/render-16.png",
+        "sha256": "2b92ef0a19a60d795e3f17e1819694ef6ae17b75df8220009648eb089171a09b"
+      },
+      {
+        "designReference": "render-mobile---mentors-98-3058",
+        "nodeId": "98:3058",
+        "nodeName": "Mobile - Mentors",
+        "pageName": "🦴 Wireframe",
+        "path": "images/render-17.png",
+        "sha256": "5cb2f2aac38ece3f703f97fb3ccfb672299548212b019faef792a01e81d9260b"
+      },
+      {
+        "designReference": "render-web---message-98-3220",
+        "nodeId": "98:3220",
+        "nodeName": "Web - Message",
+        "pageName": "🦴 Wireframe",
+        "path": "images/render-18.png",
+        "sha256": "c80f1aeb8868eb0dd36d2914c826bf7e9ffcd076b215eba225f141073f3734f9"
+      },
+      {
+        "designReference": "render-mobile---message-98-3415",
+        "nodeId": "98:3415",
+        "nodeName": "Mobile - Message",
+        "pageName": "🦴 Wireframe",
+        "path": "images/render-19.png",
+        "sha256": "8cdf5d3c31ad991f16dd509097754a1ec74e9820829da677e42ef0481dc2fb96"
+      },
+      {
+        "designReference": "render-mobile---message---chat-98-3524",
+        "nodeId": "98:3524",
+        "nodeName": "Mobile -  Message - Chat",
+        "pageName": "🦴 Wireframe",
+        "path": "images/render-20.png",
+        "sha256": "a80eb78690c20736114120b6abe19c0157cb8c88b204cef2c3c9906be1119c54"
+      },
+      {
+        "designReference": "render-web---settings---general-98-3576",
+        "nodeId": "98:3576",
+        "nodeName": "Web - Settings - General",
+        "pageName": "🦴 Wireframe",
+        "path": "images/render-21.png",
+        "sha256": "cd26ce676a977bd520d19d20ccd9a7a5227775eab54ac26e0eee01811b4f4bb0"
+      },
+      {
+        "designReference": "render-mobile---settings---general-98-3660",
+        "nodeId": "98:3660",
+        "nodeName": "Mobile - Settings - General",
+        "pageName": "🦴 Wireframe",
+        "path": "images/render-22.png",
+        "sha256": "50a0a865443d67341f82a5e08ff796abc82d68a8fad47f250e7fcd829352a943"
+      },
+      {
+        "designReference": "render-web---settings---notification-98-3703",
+        "nodeId": "98:3703",
+        "nodeName": "Web - Settings - Notification",
+        "pageName": "🦴 Wireframe",
+        "path": "images/render-23.png",
+        "sha256": "8652f9f075d10581ebad03f505d439dc4f1f307a1d465fc45b3d1b78942f9da0"
+      },
+      {
+        "designReference": "render-mobile---settings---notification-98-3789",
+        "nodeId": "98:3789",
+        "nodeName": "Mobile - Settings  - Notification",
+        "pageName": "🦴 Wireframe",
+        "path": "images/render-24.png",
+        "sha256": "a48173dfcd2cc6888395238adf3e5cd8712967087aea80bf48c5ba9209beba74"
+      },
+      {
+        "designReference": "render-web---dashboard-6-2335",
+        "nodeId": "6:2335",
+        "nodeName": "Web - Dashboard",
+        "pageName": "🌈 High Fidelity",
+        "path": "images/render-25.png",
+        "sha256": "0a4c36afa1eeebd799727cad43d8fc4cc3db4f06a379921772285b166a6af033"
+      },
+      {
+        "designReference": "render-mobile---dashboard-36-3066",
+        "nodeId": "36:3066",
+        "nodeName": "Mobile - Dashboard",
+        "pageName": "🌈 High Fidelity",
+        "path": "images/render-26.png",
+        "sha256": "e19d3d58cd846602b6d62c6b489b063c45cbada4f8db89b49f5aaf9e413a0d2a"
+      },
+      {
+        "designReference": "render-web---task-36-3071",
+        "nodeId": "36:3071",
+        "nodeName": "Web - Task",
+        "pageName": "🌈 High Fidelity",
+        "path": "images/render-27.png",
+        "sha256": "64913c61857246fd3dc7d959b7ac2b5828f539ed59fab3ac2c9c1f6f33a9df24"
+      },
+      {
+        "designReference": "render-mobile---task-36-4048",
+        "nodeId": "36:4048",
+        "nodeName": "Mobile - Task",
+        "pageName": "🌈 High Fidelity",
+        "path": "images/render-28.png",
+        "sha256": "0036a53f7676e271f83402b8e13affc7aa65cd5f198affc13d40d02effd684d2"
+      },
+      {
+        "designReference": "render-web---detail-task-39-1865",
+        "nodeId": "39:1865",
+        "nodeName": "Web - Detail Task",
+        "pageName": "🌈 High Fidelity",
+        "path": "images/render-29.png",
+        "sha256": "5667fc5c275a9f7dd7e083d858c4374834c82113bfef671d671ee55ccf18ba82"
+      },
+      {
+        "designReference": "render-mobile---detail-task-84-2102",
+        "nodeId": "84:2102",
+        "nodeName": "Mobile - Detail Task",
+        "pageName": "🌈 High Fidelity",
+        "path": "images/render-30.png",
+        "sha256": "3695d8cdb2634fe9380159be7c09bdf2cfb23ab06aacf6bf8884f64e1240e404"
+      },
+      {
+        "designReference": "render-web---mentors-36-5489",
+        "nodeId": "36:5489",
+        "nodeName": "Web - Mentors",
+        "pageName": "🌈 High Fidelity",
+        "path": "images/render-31.png",
+        "sha256": "cffad6cb09eb2915e169dd11fb435a3c8c7d98ff532286c6260b257f57e88bca"
+      },
+      {
+        "designReference": "render-mobile---mentors-36-6747",
+        "nodeId": "36:6747",
+        "nodeName": "Mobile - Mentors",
+        "pageName": "🌈 High Fidelity",
+        "path": "images/render-32.png",
+        "sha256": "0ac01bc70b51c8923c86c589d99fd135e20d74ec29c53b0a4fd5489dd6c61232"
+      },
+      {
+        "designReference": "render-web---message-38-2152",
+        "nodeId": "38:2152",
+        "nodeName": "Web - Message",
+        "pageName": "🌈 High Fidelity",
+        "path": "images/render-33.png",
+        "sha256": "cec057d5a1f5227349af9f938f41520f39adc8db3500e721cc1afd8e59d5ff3a"
+      },
+      {
+        "designReference": "render-mobile---message-53-2129",
+        "nodeId": "53:2129",
+        "nodeName": "Mobile - Message",
+        "pageName": "🌈 High Fidelity",
+        "path": "images/render-34.png",
+        "sha256": "268c68f6de132965f2f39cfa7bd801c4f373fbcdbb391d1c5437c236e207a4f1"
+      },
+      {
+        "designReference": "render-mobile---message---chat-53-2749",
+        "nodeId": "53:2749",
+        "nodeName": "Mobile -  Message - Chat",
+        "pageName": "🌈 High Fidelity",
+        "path": "images/render-35.png",
+        "sha256": "fc2aaf016ecd27ae93bade405178c810bfb9dcb57a8097664781ec0ead8d2088"
+      },
+      {
+        "designReference": "render-web---settings---general-53-3034",
+        "nodeId": "53:3034",
+        "nodeName": "Web - Settings - General",
+        "pageName": "🌈 High Fidelity",
+        "path": "images/render-36.png",
+        "sha256": "1482d7ac8bfcf2085f879f83c5e14e7eece45abe6f8b2f425e5131bd924d7e9d"
+      },
+      {
+        "designReference": "render-mobile---settings---general-55-2018",
+        "nodeId": "55:2018",
+        "nodeName": "Mobile - Settings - General",
+        "pageName": "🌈 High Fidelity",
+        "path": "images/render-37.png",
+        "sha256": "f0412c658b38a726a252df3a5ea0adec265e9d665a42bc5b58dfbb05bad3fa99"
+      },
+      {
+        "designReference": "render-web---settings---notification-58-2195",
+        "nodeId": "58:2195",
+        "nodeName": "Web - Settings - Notification",
+        "pageName": "🌈 High Fidelity",
+        "path": "images/render-38.png",
+        "sha256": "954c348fc4f1cb0fce94bb4c006059b3aedab04f931bb09f87122d589b0795ab"
+      },
+      {
+        "designReference": "render-mobile---settings---notification-58-2279",
+        "nodeId": "58:2279",
+        "nodeName": "Mobile - Settings  - Notification",
+        "pageName": "🌈 High Fidelity",
+        "path": "images/render-39.png",
+        "sha256": "3da98ace46805c8e1dd433e96d637d9b2f172c0efb51d3baba608971fdf0247d"
+      },
+      {
+        "designReference": "render-web---dashboard-133-4811",
+        "nodeId": "133:4811",
+        "nodeName": "Web - Dashboard",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-40.png",
+        "sha256": "fb4867241045504438f6b67a972856e60c1fb00bea2eeca2a3d044e5deefef8e"
+      },
+      {
+        "designReference": "render-mobile---dashboard-133-5084",
+        "nodeId": "133:5084",
+        "nodeName": "Mobile - Dashboard",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-41.png",
+        "sha256": "2819e2705671592c35eb8e5c1cbe893cf9d824adf2c9a7f2b91b47a28c9fabb8"
+      },
+      {
+        "designReference": "render-web---task-133-5269",
+        "nodeId": "133:5269",
+        "nodeName": "Web - Task",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-42.png",
+        "sha256": "f76da81441cc896f6659693ccb33ee60ef15db6d4e6f500b78ac98d395c4f634"
+      },
+      {
+        "designReference": "render-mobile---task-133-5523",
+        "nodeId": "133:5523",
+        "nodeName": "Mobile - Task",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-43.png",
+        "sha256": "41fefc207024aca880b26bcb511140737c8657f2bc553da6bbbd1302697e1365"
+      },
+      {
+        "designReference": "render-web---detail-task-133-5729",
+        "nodeId": "133:5729",
+        "nodeName": "Web - Detail Task",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-44.png",
+        "sha256": "fab51293862c37eb0009bedee08a8f3a2077fcc7b8a38e4a473581b45c22b056"
+      },
+      {
+        "designReference": "render-mobile---detail-task-133-5867",
+        "nodeId": "133:5867",
+        "nodeName": "Mobile - Detail Task",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-45.png",
+        "sha256": "bc0d6f70bea523ffa8422f18e4290179c1f937b1858475429c0d9cdf4933096a"
+      },
+      {
+        "designReference": "render-web---mentors-133-5960",
+        "nodeId": "133:5960",
+        "nodeName": "Web - Mentors",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-46.png",
+        "sha256": "d5663e152ad7da450b30ae306ec1d9787f522c9229fc97570aa6a9950bfe539e"
+      },
+      {
+        "designReference": "render-mobile---mentors-133-6171",
+        "nodeId": "133:6171",
+        "nodeName": "Mobile - Mentors",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-47.png",
+        "sha256": "e3182bf1fcbf9056b05f70a576c003c903b695eb1fc0650964bae21ae2975e3b"
+      },
+      {
+        "designReference": "render-web---message-133-6333",
+        "nodeId": "133:6333",
+        "nodeName": "Web - Message",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-48.png",
+        "sha256": "4346194e9e55552aa62e8e8d73acd9ac13ff6c831b48ed47aa75e6eb324d879c"
+      },
+      {
+        "designReference": "render-mobile---message-133-6534",
+        "nodeId": "133:6534",
+        "nodeName": "Mobile - Message",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-49.png",
+        "sha256": "09e1a2dc839908f17cca836bcf1593bc57f504c744598cd3733126b20a4564d4"
+      },
+      {
+        "designReference": "render-mobile---message---chat-133-6643",
+        "nodeId": "133:6643",
+        "nodeName": "Mobile -  Message - Chat",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-50.png",
+        "sha256": "7919b1e5c1f051579201890abf8ecfd72e4085a338100de3e6cf2b32cf08bcd0"
+      },
+      {
+        "designReference": "render-web---settings---general-133-6695",
+        "nodeId": "133:6695",
+        "nodeName": "Web - Settings - General",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-51.png",
+        "sha256": "ac5492a2ed984ce06fc7decda62d3ffb196b73cb6b9826e80642947c496167b6"
+      },
+      {
+        "designReference": "render-mobile---settings---general-133-6779",
+        "nodeId": "133:6779",
+        "nodeName": "Mobile - Settings - General",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-52.png",
+        "sha256": "bf6ef86f3d422c381176ef7fa69693bf96416d2ec349c50620d5210850e3b366"
+      },
+      {
+        "designReference": "render-web---settings---notification-133-6822",
+        "nodeId": "133:6822",
+        "nodeName": "Web - Settings - Notification",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-53.png",
+        "sha256": "685cc7c708cf5f6c6758b4e04beceb0f6548d3436995cc98588cd9e9f0921f36"
+      },
+      {
+        "designReference": "render-mobile---settings---notification-133-6908",
+        "nodeId": "133:6908",
+        "nodeName": "Mobile - Settings  - Notification",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-54.png",
+        "sha256": "70c4598de819e01cec3b5d0c76ea5729c639a4159c7825eb92d289a6efb88213"
+      },
+      {
+        "designReference": "render-web---dashboard-133-7928",
+        "nodeId": "133:7928",
+        "nodeName": "Web - Dashboard",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-55.png",
+        "sha256": "d922eafdb5dd94f1c4aed046ac05c4ce4ff33c020b802cc4eca22a24a36b3d9c"
+      },
+      {
+        "designReference": "render-mobile---dashboard-133-8172",
+        "nodeId": "133:8172",
+        "nodeName": "Mobile - Dashboard",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-56.png",
+        "sha256": "2596ee02e56bbb0f4aea178613de1d9d4ba00057bb3147f9345946639c57b7ed"
+      },
+      {
+        "designReference": "render-web---task-133-8347",
+        "nodeId": "133:8347",
+        "nodeName": "Web - Task",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-57.png",
+        "sha256": "cf272f6049e58c7ac011d395b2568458dd332d66ef57c3c086290ecdd3c46018"
+      },
+      {
+        "designReference": "render-mobile---task-133-8564",
+        "nodeId": "133:8564",
+        "nodeName": "Mobile - Task",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-58.png",
+        "sha256": "e9185a5b2fd8f9408197ce4db1573234a85ec68b7ce2f0f46d128f6f05968382"
+      },
+      {
+        "designReference": "render-web---detail-task-133-8634",
+        "nodeId": "133:8634",
+        "nodeName": "Web - Detail Task",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-59.png",
+        "sha256": "c946ed8c34fed0ee44b884d0b5cca818edcd54aa414e1dc1722747e6fa79c4d6"
+      },
+      {
+        "designReference": "render-mobile---detail-task-133-8745",
+        "nodeId": "133:8745",
+        "nodeName": "Mobile - Detail Task",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-60.png",
+        "sha256": "b3ad0c3f9b6f466e5b9cc9360d264b9230cada00cd918c042314d8dc87fce605"
+      },
+      {
+        "designReference": "render-web---mentors-133-8818",
+        "nodeId": "133:8818",
+        "nodeName": "Web - Mentors",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-61.png",
+        "sha256": "2b92ef0a19a60d795e3f17e1819694ef6ae17b75df8220009648eb089171a09b"
+      },
+      {
+        "designReference": "render-mobile---mentors-133-9084",
+        "nodeId": "133:9084",
+        "nodeName": "Mobile - Mentors",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-62.png",
+        "sha256": "5cb2f2aac38ece3f703f97fb3ccfb672299548212b019faef792a01e81d9260b"
+      },
+      {
+        "designReference": "render-web---message-133-9252",
+        "nodeId": "133:9252",
+        "nodeName": "Web - Message",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-63.png",
+        "sha256": "437d082ffa8d16aee4da454ba0ccc22a630665a97a1564398d4c72954e0d0c87"
+      },
+      {
+        "designReference": "render-mobile---message-133-9411",
+        "nodeId": "133:9411",
+        "nodeName": "Mobile - Message",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-64.png",
+        "sha256": "8cdf5d3c31ad991f16dd509097754a1ec74e9820829da677e42ef0481dc2fb96"
+      },
+      {
+        "designReference": "render-mobile---message---chat-133-9501",
+        "nodeId": "133:9501",
+        "nodeName": "Mobile -  Message - Chat",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-65.png",
+        "sha256": "a80eb78690c20736114120b6abe19c0157cb8c88b204cef2c3c9906be1119c54"
+      },
+      {
+        "designReference": "render-web---settings---general-133-9539",
+        "nodeId": "133:9539",
+        "nodeName": "Web - Settings - General",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-66.png",
+        "sha256": "cd26ce676a977bd520d19d20ccd9a7a5227775eab54ac26e0eee01811b4f4bb0"
+      },
+      {
+        "designReference": "render-mobile---settings---general-133-9616",
+        "nodeId": "133:9616",
+        "nodeName": "Mobile - Settings - General",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-67.png",
+        "sha256": "50a0a865443d67341f82a5e08ff796abc82d68a8fad47f250e7fcd829352a943"
+      },
+      {
+        "designReference": "render-web---settings---notification-133-9660",
+        "nodeId": "133:9660",
+        "nodeName": "Web - Settings - Notification",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-68.png",
+        "sha256": "8652f9f075d10581ebad03f505d439dc4f1f307a1d465fc45b3d1b78942f9da0"
+      },
+      {
+        "designReference": "render-mobile---settings---notification-133-9739",
+        "nodeId": "133:9739",
+        "nodeName": "Mobile - Settings  - Notification",
+        "pageName": "🔥 Design Area",
+        "path": "images/render-69.png",
+        "sha256": "a48173dfcd2cc6888395238adf3e5cd8712967087aea80bf48c5ba9209beba74"
+      }
+    ]
+  },
+  "files": [
+    {
+      "path": "figma.json",
+      "chunks": [
+        {
+          "documentId": "figma-capture-0-chunk-0",
+          "version": "469f33746a858e9ea496d8d6c4500b8b900b2eee73186f60660a4397ab680792",
+          "producer": "analysis",
+          "status": "generated",
+          "mediaType": "application/octet-stream",
+          "contentHash": "9863370c4bff0dbe58e11fc9da3cd72dd6c21889eaf27f3838df14cdbd8bd2c0",
+          "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/469f33746a858e9ea496d8d6c4500b8b900b2eee73186f60660a4397ab680792/figma-capture-0-chunk-0.bin",
+          "metadata": {
+            "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+            "figmaVersion": "2410903699439765849",
+            "contentHash": "1913de952cf6eabf998f82b3ce11eb0c8e77435a6d57735d3630a6a299b9221a",
+            "byteLength": 140505808,
+            "offset": 0
+          },
+          "schemaVersion": 1,
+          "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+          "branch": "project/fullstack",
+          "commitSha": "cf2bc40b658660ecb36f17b1625fe6d2894df89d",
+          "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+          "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+        },
+        {
+          "documentId": "figma-capture-0-chunk-1",
+          "version": "79c1d97586bac478587b2a03fb1ca567631b1697cfbe2daddb8c3cfbbbb7d994",
+          "producer": "analysis",
+          "status": "generated",
+          "mediaType": "application/octet-stream",
+          "contentHash": "a4e746f577c7d98487f4c029c94e3eff26231e2bb1dde73f6d0cc0742808e9d6",
+          "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/79c1d97586bac478587b2a03fb1ca567631b1697cfbe2daddb8c3cfbbbb7d994/figma-capture-0-chunk-1.bin",
+          "metadata": {
+            "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+            "figmaVersion": "2410903699439765849",
+            "contentHash": "1913de952cf6eabf998f82b3ce11eb0c8e77435a6d57735d3630a6a299b9221a",
+            "byteLength": 140505808,
+            "offset": 33554432
+          },
+          "schemaVersion": 1,
+          "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+          "branch": "project/fullstack",
+          "commitSha": "df84520d1cbacaabd452f4a59731b8550444a790",
+          "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+          "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+        },
+        {
+          "documentId": "figma-capture-0-chunk-2",
+          "version": "ec1c2d1fc8e160ff3d5fc73a58b6383470ba69c044f8416c483c52c64d3e15f7",
+          "producer": "analysis",
+          "status": "generated",
+          "mediaType": "application/octet-stream",
+          "contentHash": "27ba44b49d7d80b2d93e346049473c2ece31f612011a5d0413b0cfba4d6d3715",
+          "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/ec1c2d1fc8e160ff3d5fc73a58b6383470ba69c044f8416c483c52c64d3e15f7/figma-capture-0-chunk-2.bin",
+          "metadata": {
+            "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+            "figmaVersion": "2410903699439765849",
+            "contentHash": "1913de952cf6eabf998f82b3ce11eb0c8e77435a6d57735d3630a6a299b9221a",
+            "byteLength": 140505808,
+            "offset": 67108864
+          },
+          "schemaVersion": 1,
+          "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+          "branch": "project/fullstack",
+          "commitSha": "c838c26c518d032b497ad1bf0b3f8ca1c20096a4",
+          "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+          "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+        },
+        {
+          "documentId": "figma-capture-0-chunk-3",
+          "version": "636d8dbc1a6b51763a1b26147ed703f06414319fe4bc4379b6bb46e125bbc886",
+          "producer": "analysis",
+          "status": "generated",
+          "mediaType": "application/octet-stream",
+          "contentHash": "c22032ebd5cb48b731d4f2e796d8317a1de5333d41a41f28eb3493bbec59bbec",
+          "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/636d8dbc1a6b51763a1b26147ed703f06414319fe4bc4379b6bb46e125bbc886/figma-capture-0-chunk-3.bin",
+          "metadata": {
+            "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+            "figmaVersion": "2410903699439765849",
+            "contentHash": "1913de952cf6eabf998f82b3ce11eb0c8e77435a6d57735d3630a6a299b9221a",
+            "byteLength": 140505808,
+            "offset": 100663296
+          },
+          "schemaVersion": 1,
+          "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+          "branch": "project/fullstack",
+          "commitSha": "e0e191da3988b4319deeff134c8a12cbbf559faf",
+          "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+          "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+        },
+        {
+          "documentId": "figma-capture-0-chunk-4",
+          "version": "df4f871055faedcb248ae6b22dabcf6b86c9db99a23be03052e316ca8d997cb2",
+          "producer": "analysis",
+          "status": "generated",
+          "mediaType": "application/octet-stream",
+          "contentHash": "fb14edb446f7214714c42dda26bde127f36a7ea3aa3163169b0721b5cef6d6d6",
+          "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/df4f871055faedcb248ae6b22dabcf6b86c9db99a23be03052e316ca8d997cb2/figma-capture-0-chunk-4.bin",
+          "metadata": {
+            "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+            "figmaVersion": "2410903699439765849",
+            "contentHash": "1913de952cf6eabf998f82b3ce11eb0c8e77435a6d57735d3630a6a299b9221a",
+            "byteLength": 140505808,
+            "offset": 134217728
+          },
+          "schemaVersion": 1,
+          "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+          "branch": "project/fullstack",
+          "commitSha": "6eac314ad08a3add5b440728b5f5e7cfa52f57af",
+          "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+          "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+        }
+      ],
+      "byteLength": 140505808,
+      "contentHash": "1913de952cf6eabf998f82b3ce11eb0c8e77435a6d57735d3630a6a299b9221a"
+    },
+    {
+      "path": "images/render-1.png",
+      "reference": {
+        "documentId": "figma-capture-1",
+        "version": "5c005a2262f810479d95413677a403758539566ffa1c3716cb910bfa34d45353",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "120f0e7b6fa070ac818ed54b011420762b9e6076e73a499e3cc2efb8de7ddf8b",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/5c005a2262f810479d95413677a403758539566ffa1c3716cb910bfa34d45353/figma-capture-1.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-label-2-197",
+          "nodeId": "2:197"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "9dae19194166b60fd59d382a84283239125fa045",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-2.png",
+      "reference": {
+        "documentId": "figma-capture-2",
+        "version": "e192bae4f1e441029c848873235c75e584c6fc1532536a97781fa93038426603",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "e160041a64d7b27cf3b94991418d2fc863ca6f23d659e5c6cce587a7205e033f",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/e192bae4f1e441029c848873235c75e584c6fc1532536a97781fa93038426603/figma-capture-2.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-label-2-204",
+          "nodeId": "2:204"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "77e434abbe7ff5facb59e5be91f55b390199a7ec",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-3.png",
+      "reference": {
+        "documentId": "figma-capture-3",
+        "version": "da2331830d9131e1ad2c6b2a6b8a49a33933f74e04986530bbcc533e619d38af",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "a8b6e65505442bf2d81168ab566e7430e9e72cd54d4ff94e617be8ed9a1a58d8",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/da2331830d9131e1ad2c6b2a6b8a49a33933f74e04986530bbcc533e619d38af/figma-capture-3.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-cover-2-211",
+          "nodeId": "2:211"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "9967d34736213a5e9ef2c262239b3b8008007f93",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-4.png",
+      "reference": {
+        "documentId": "figma-capture-4",
+        "version": "18b4341c6a0ffe2cf895f422b3689381aff93a45f9b86a6731a680fedf40abc6",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "28797427ffa176351b176b611206cb200c4c14654b504a9d91180be74b5802eb",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/18b4341c6a0ffe2cf895f422b3689381aff93a45f9b86a6731a680fedf40abc6/figma-capture-4.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-license-2-1762",
+          "nodeId": "2:1762"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "6cbf146337123b797148601820d8feac8a33b6a7",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-5.png",
+      "reference": {
+        "documentId": "figma-capture-5",
+        "version": "64da0f3d6054f3a7cba56abe5f41925cb20b96e1a46b82c4a7d33687354e8723",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "25277b26c3794c221435c1de157c2cf63d901b51b4598114fb2ac506e6c4a819",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/64da0f3d6054f3a7cba56abe5f41925cb20b96e1a46b82c4a7d33687354e8723/figma-capture-5.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-icon-general-2-2646",
+          "nodeId": "2:2646"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "c32a8c968cc6f27f7835cd2bf9e4d4b4a8cab205",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-6.png",
+      "reference": {
+        "documentId": "figma-capture-6",
+        "version": "b4bfeae1f946a12a35bf2657100d3a76177187d2db215911acb8cc2528369c8f",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "86a62d899a86a1baeca0ebed1a010e86f25f0864d3874597eafaf3d8d63f5955",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/b4bfeae1f946a12a35bf2657100d3a76177187d2db215911acb8cc2528369c8f/figma-capture-6.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-color-style-2-46689",
+          "nodeId": "2:46689"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "7c3572344a578caeeaebf592ed2ccff53f595b70",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-7.png",
+      "reference": {
+        "documentId": "figma-capture-7",
+        "version": "0e28fc644791cd87978d487cd096c65aa335e164606f145d600073a23ae6ad98",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "7cb4ce2a98156c504343ab14fff1e69982de1814aa189e3ffd24045b8825e971",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/0e28fc644791cd87978d487cd096c65aa335e164606f145d600073a23ae6ad98/figma-capture-7.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-button-2-47116",
+          "nodeId": "2:47116"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "5e5026f412c61c304be8b73f83e34bc3446c5008",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-8.png",
+      "reference": {
+        "documentId": "figma-capture-8",
+        "version": "e8c1ca12dd6e4b91d87bfc4af9e702e73d4cfa61f9da8ef401f588e40121e160",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "decf374f37a29422967bc5a73585bf5ff1153358cd21a346d2f83fe6bfb19b3a",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/e8c1ca12dd6e4b91d87bfc4af9e702e73d4cfa61f9da8ef401f588e40121e160/figma-capture-8.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-content-2-47744",
+          "nodeId": "2:47744"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "aacf39aae01a2640ea03a16a8a59490ce010f4c0",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-9.png",
+      "reference": {
+        "documentId": "figma-capture-9",
+        "version": "88367ec22444e0f7f5ac30d92a4e2e49554080184762f873c32eb3c33bc13bf4",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "e989e728764d0e920c26070f0d03fcd9fed65370cbc8404e05b3b04f61f8387d",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/88367ec22444e0f7f5ac30d92a4e2e49554080184762f873c32eb3c33bc13bf4/figma-capture-9.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-typography-2-48216",
+          "nodeId": "2:48216"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "d2d0eaec581bed72d572ca0fe4658d22700366fe",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-10.png",
+      "reference": {
+        "documentId": "figma-capture-10",
+        "version": "61a35cc38c024d3c5c11f4799eff0468852c43f8fcba5d7356ff5d85401f6cf7",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "8f3316a8550fa8ca03515eb499fc1d1c38e1f598c4c0612592131bddc5b0fc4c",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/61a35cc38c024d3c5c11f4799eff0468852c43f8fcba5d7356ff5d85401f6cf7/figma-capture-10.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---dashboard-84-2544",
+          "nodeId": "84:2544"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "fcb34904c4174ac9aee43a1258951ce440bc559f",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-11.png",
+      "reference": {
+        "documentId": "figma-capture-11",
+        "version": "8cea4f55f5155d75be3cd9e5e2978a2eb0c61581a4fbe982732e736c4d65f20e",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "6654bcfc2d46362e0f29e87a121e954a9e1c50ddae2529c3cfcad051dccd4dea",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/8cea4f55f5155d75be3cd9e5e2978a2eb0c61581a4fbe982732e736c4d65f20e/figma-capture-11.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---dashboard-84-2820",
+          "nodeId": "84:2820"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "5d66d280125996cdf8636bb3e880671ab3095941",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-12.png",
+      "reference": {
+        "documentId": "figma-capture-12",
+        "version": "eb702d9c662fe4edf0c5e92da45e21848662d51c85ff5d381ce55879c3fa47ff",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "c92560e05de09a3a0854f7284065aebcbe8448c1e7305ba87621e7b091914df9",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/eb702d9c662fe4edf0c5e92da45e21848662d51c85ff5d381ce55879c3fa47ff/figma-capture-12.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---task-90-3615",
+          "nodeId": "90:3615"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "efc8e4558348b78b5be3b4a2f49c32bacd858288",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-13.png",
+      "reference": {
+        "documentId": "figma-capture-13",
+        "version": "17574bfc82867385ee1d4785bc423bf19aaafba62f46d66acfec11d44040d673",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "bb4211c88d575125988419ceae91c626af861189a69df87d8f021e44a60e42ff",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/17574bfc82867385ee1d4785bc423bf19aaafba62f46d66acfec11d44040d673/figma-capture-13.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---task-94-2936",
+          "nodeId": "94:2936"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "d9c8c12a4237cf598022d19416d1c2e17759a4e3",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-14.png",
+      "reference": {
+        "documentId": "figma-capture-14",
+        "version": "0c89a4e69c5647c5fd63831938ab066bdc6ee3c97bd1018decbc0ff18aa17256",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "307e803633f6b9a043e79f332706eca2f534d8e907ca728ef7e9bf6d537c7067",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/0c89a4e69c5647c5fd63831938ab066bdc6ee3c97bd1018decbc0ff18aa17256/figma-capture-14.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---detail-task-95-3635",
+          "nodeId": "95:3635"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "11191d4d2bc67c2c51b2006ccef31800f7cbcaf3",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-15.png",
+      "reference": {
+        "documentId": "figma-capture-15",
+        "version": "a94ea83dfed0031fbf19e47827b91d49af2e442590ebf57c051286421774e256",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "c2930a375e5fad45d5dd97478bfd663fd5f3edadaea23b685035204ece757a95",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/a94ea83dfed0031fbf19e47827b91d49af2e442590ebf57c051286421774e256/figma-capture-15.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---detail-task-95-3773",
+          "nodeId": "95:3773"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "2b883872b69f38f68dec30975f4eeb009347049b",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-16.png",
+      "reference": {
+        "documentId": "figma-capture-16",
+        "version": "f43d0cb6e3d2d681a1b17e647b3a1a28c5b75d2f83cfddd9bc6f91a69041f1bb",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "2b92ef0a19a60d795e3f17e1819694ef6ae17b75df8220009648eb089171a09b",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/f43d0cb6e3d2d681a1b17e647b3a1a28c5b75d2f83cfddd9bc6f91a69041f1bb/figma-capture-16.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---mentors-98-2847",
+          "nodeId": "98:2847"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "cc3e9137447d1a1948a1a6e16f876d1ec19ef0e6",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-17.png",
+      "reference": {
+        "documentId": "figma-capture-17",
+        "version": "1d01f834374df3eac1e31949c4a09cee186917e238aa74ace6d75cb4b0971d53",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "5cb2f2aac38ece3f703f97fb3ccfb672299548212b019faef792a01e81d9260b",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/1d01f834374df3eac1e31949c4a09cee186917e238aa74ace6d75cb4b0971d53/figma-capture-17.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---mentors-98-3058",
+          "nodeId": "98:3058"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "18d8d39704cb9a8c97069d153ff76b8f1a4d8d45",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-18.png",
+      "reference": {
+        "documentId": "figma-capture-18",
+        "version": "b0f356df60f20384af827921a1880b897faa76b809d596fb5befe1797713a1bc",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "c80f1aeb8868eb0dd36d2914c826bf7e9ffcd076b215eba225f141073f3734f9",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/b0f356df60f20384af827921a1880b897faa76b809d596fb5befe1797713a1bc/figma-capture-18.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---message-98-3220",
+          "nodeId": "98:3220"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "340071ec9a4314aaaccd8dc6218e739d663b92df",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-19.png",
+      "reference": {
+        "documentId": "figma-capture-19",
+        "version": "c9648b3045e1f4323bf02a471d95dd11dabb71013f3f4b053de4e6fcc0a4aee8",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "8cdf5d3c31ad991f16dd509097754a1ec74e9820829da677e42ef0481dc2fb96",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/c9648b3045e1f4323bf02a471d95dd11dabb71013f3f4b053de4e6fcc0a4aee8/figma-capture-19.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---message-98-3415",
+          "nodeId": "98:3415"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "9f2aff8dea75e80d7b97c58ee4dceaf849443c19",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-20.png",
+      "reference": {
+        "documentId": "figma-capture-20",
+        "version": "a6fe3533a98e29092be0423a9193ee6bb4333a16ec29498175617ebea98cc692",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "a80eb78690c20736114120b6abe19c0157cb8c88b204cef2c3c9906be1119c54",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/a6fe3533a98e29092be0423a9193ee6bb4333a16ec29498175617ebea98cc692/figma-capture-20.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---message---chat-98-3524",
+          "nodeId": "98:3524"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "b5dae64454eacbd9a48e44e32f979f496f7cdd64",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-21.png",
+      "reference": {
+        "documentId": "figma-capture-21",
+        "version": "f53309754b9b6cde010f9e559aa5b7a7f3fbb238966154eb67a64e713ebf1185",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "cd26ce676a977bd520d19d20ccd9a7a5227775eab54ac26e0eee01811b4f4bb0",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/f53309754b9b6cde010f9e559aa5b7a7f3fbb238966154eb67a64e713ebf1185/figma-capture-21.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---settings---general-98-3576",
+          "nodeId": "98:3576"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "d163fc4d59e1f4bd120460588f9a705ee53336eb",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-22.png",
+      "reference": {
+        "documentId": "figma-capture-22",
+        "version": "b1aedde786a71001245ec30b1fa55cbec068d032f978757adf85985e372869af",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "50a0a865443d67341f82a5e08ff796abc82d68a8fad47f250e7fcd829352a943",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/b1aedde786a71001245ec30b1fa55cbec068d032f978757adf85985e372869af/figma-capture-22.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---settings---general-98-3660",
+          "nodeId": "98:3660"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "9b00c14b82a053b3453540f7777fc408545a8e45",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-23.png",
+      "reference": {
+        "documentId": "figma-capture-23",
+        "version": "e1dd8456e6f5511988ebfdf91349408bfe636ac677096fc71bfb8445700a6e71",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "8652f9f075d10581ebad03f505d439dc4f1f307a1d465fc45b3d1b78942f9da0",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/e1dd8456e6f5511988ebfdf91349408bfe636ac677096fc71bfb8445700a6e71/figma-capture-23.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---settings---notification-98-3703",
+          "nodeId": "98:3703"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "87ded12a2ead1f86aca1a81399008c7064c62689",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-24.png",
+      "reference": {
+        "documentId": "figma-capture-24",
+        "version": "fa4f80f86403982da5a63db86602b0f6d1d39b0f26b56d81ddefd5bf3f7d1357",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "a48173dfcd2cc6888395238adf3e5cd8712967087aea80bf48c5ba9209beba74",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/fa4f80f86403982da5a63db86602b0f6d1d39b0f26b56d81ddefd5bf3f7d1357/figma-capture-24.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---settings---notification-98-3789",
+          "nodeId": "98:3789"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "8a5552a57819fc4350e587c417f4b1bea46c5882",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-25.png",
+      "reference": {
+        "documentId": "figma-capture-25",
+        "version": "1fb256b5d9ee2e3a57817b74e4f6035d7fffad9319f7aadf5c79fb9cfa291af2",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "0a4c36afa1eeebd799727cad43d8fc4cc3db4f06a379921772285b166a6af033",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/1fb256b5d9ee2e3a57817b74e4f6035d7fffad9319f7aadf5c79fb9cfa291af2/figma-capture-25.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---dashboard-6-2335",
+          "nodeId": "6:2335"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "2b553bde1da298a7a810a05252eb18ff35b70d79",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-26.png",
+      "reference": {
+        "documentId": "figma-capture-26",
+        "version": "a9efa9da94ca0af806c40e5fe2e3f8b1a1633db28bcfc369ddadfe41e26c104c",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "e19d3d58cd846602b6d62c6b489b063c45cbada4f8db89b49f5aaf9e413a0d2a",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/a9efa9da94ca0af806c40e5fe2e3f8b1a1633db28bcfc369ddadfe41e26c104c/figma-capture-26.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---dashboard-36-3066",
+          "nodeId": "36:3066"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "f1d42c818fbbfbecc1cfa7a1d76bc55353e18633",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-27.png",
+      "reference": {
+        "documentId": "figma-capture-27",
+        "version": "c033996a7c2f8f65ebfef437ec744f4dc95223400d4bdbb1460f09c6f7981c59",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "64913c61857246fd3dc7d959b7ac2b5828f539ed59fab3ac2c9c1f6f33a9df24",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/c033996a7c2f8f65ebfef437ec744f4dc95223400d4bdbb1460f09c6f7981c59/figma-capture-27.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---task-36-3071",
+          "nodeId": "36:3071"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "9846cb3962b832e2e5107e761bf661a80a50aa12",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-28.png",
+      "reference": {
+        "documentId": "figma-capture-28",
+        "version": "a32f2d6887a460108d2f8a8e108c72aa2da884ea166b2c1fb04bbc3d3362f7b0",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "0036a53f7676e271f83402b8e13affc7aa65cd5f198affc13d40d02effd684d2",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/a32f2d6887a460108d2f8a8e108c72aa2da884ea166b2c1fb04bbc3d3362f7b0/figma-capture-28.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---task-36-4048",
+          "nodeId": "36:4048"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "2884f85229e816a577c4732220fa4ab2b8d2412e",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-29.png",
+      "reference": {
+        "documentId": "figma-capture-29",
+        "version": "33224593d83d4b2f890996a4b5e99f09fb871354b741f0f7452aef11bce62a69",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "5667fc5c275a9f7dd7e083d858c4374834c82113bfef671d671ee55ccf18ba82",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/33224593d83d4b2f890996a4b5e99f09fb871354b741f0f7452aef11bce62a69/figma-capture-29.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---detail-task-39-1865",
+          "nodeId": "39:1865"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "e4dc563ae8d6e7b036215c0411230405fbb96632",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-30.png",
+      "reference": {
+        "documentId": "figma-capture-30",
+        "version": "ca1d301698c646fcfac155a7ee225ee9f66ad7a4c0b469bb6f5bd6e64ca6f735",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "3695d8cdb2634fe9380159be7c09bdf2cfb23ab06aacf6bf8884f64e1240e404",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/ca1d301698c646fcfac155a7ee225ee9f66ad7a4c0b469bb6f5bd6e64ca6f735/figma-capture-30.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---detail-task-84-2102",
+          "nodeId": "84:2102"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "c1954c24f31cc6d94114672741b2dffb2ea78643",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-31.png",
+      "reference": {
+        "documentId": "figma-capture-31",
+        "version": "383f913c5711785840dc69c264dc246c69a9af36bf67e340048d3c4aabf1fefa",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "cffad6cb09eb2915e169dd11fb435a3c8c7d98ff532286c6260b257f57e88bca",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/383f913c5711785840dc69c264dc246c69a9af36bf67e340048d3c4aabf1fefa/figma-capture-31.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---mentors-36-5489",
+          "nodeId": "36:5489"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "983f19525e9e75e406ffe11a066ed4c8f49caaad",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-32.png",
+      "reference": {
+        "documentId": "figma-capture-32",
+        "version": "aecff81edc6829da28833af74508809b31b755de38b47c6df9eb946fb3dd8424",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "0ac01bc70b51c8923c86c589d99fd135e20d74ec29c53b0a4fd5489dd6c61232",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/aecff81edc6829da28833af74508809b31b755de38b47c6df9eb946fb3dd8424/figma-capture-32.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---mentors-36-6747",
+          "nodeId": "36:6747"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "db5f56128561aef9ffbae5b0ca2acc25ce1f5560",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-33.png",
+      "reference": {
+        "documentId": "figma-capture-33",
+        "version": "0034f6dce3055d67ee374b4108af4368babcacbd761278333ef63e6585171da4",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "cec057d5a1f5227349af9f938f41520f39adc8db3500e721cc1afd8e59d5ff3a",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/0034f6dce3055d67ee374b4108af4368babcacbd761278333ef63e6585171da4/figma-capture-33.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---message-38-2152",
+          "nodeId": "38:2152"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "2ee3b7c627c2d64a09e87ddf3ab2176a7b79ece6",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-34.png",
+      "reference": {
+        "documentId": "figma-capture-34",
+        "version": "1c90850b92948239f0ca3b4f6e0b956c0f9bcceef440145be47d1feb03f9a38e",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "268c68f6de132965f2f39cfa7bd801c4f373fbcdbb391d1c5437c236e207a4f1",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/1c90850b92948239f0ca3b4f6e0b956c0f9bcceef440145be47d1feb03f9a38e/figma-capture-34.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---message-53-2129",
+          "nodeId": "53:2129"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "56b7a55366dceabf3c2fdadeb7ea01bb1214b6a7",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-35.png",
+      "reference": {
+        "documentId": "figma-capture-35",
+        "version": "b03468b9af423d0079b6ecb55b282c8cee2039e108e63551cb2529cd8b889efe",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "fc2aaf016ecd27ae93bade405178c810bfb9dcb57a8097664781ec0ead8d2088",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/b03468b9af423d0079b6ecb55b282c8cee2039e108e63551cb2529cd8b889efe/figma-capture-35.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---message---chat-53-2749",
+          "nodeId": "53:2749"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "f5633c3e3939dd7685e4c4adac9fa2bae7936872",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-36.png",
+      "reference": {
+        "documentId": "figma-capture-36",
+        "version": "d4d031ce369e764d48bf267792d6d271e9b44ffff86ed294437ac6668ec24ef5",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "1482d7ac8bfcf2085f879f83c5e14e7eece45abe6f8b2f425e5131bd924d7e9d",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/d4d031ce369e764d48bf267792d6d271e9b44ffff86ed294437ac6668ec24ef5/figma-capture-36.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---settings---general-53-3034",
+          "nodeId": "53:3034"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "dd674ce0133ee19f16c5e0e279adf06ac9bf7c14",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-37.png",
+      "reference": {
+        "documentId": "figma-capture-37",
+        "version": "a8369e7476200b647540c468a989a2bf85fb3751d441886092eb3df7c8c1b26a",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "f0412c658b38a726a252df3a5ea0adec265e9d665a42bc5b58dfbb05bad3fa99",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/a8369e7476200b647540c468a989a2bf85fb3751d441886092eb3df7c8c1b26a/figma-capture-37.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---settings---general-55-2018",
+          "nodeId": "55:2018"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "3222f08236339ee0b64be018074aa5d7b2d4962d",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-38.png",
+      "reference": {
+        "documentId": "figma-capture-38",
+        "version": "4617bb47dba7e55605c980c9886cabef629b488af15336ae191ae9aaf35f663c",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "954c348fc4f1cb0fce94bb4c006059b3aedab04f931bb09f87122d589b0795ab",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/4617bb47dba7e55605c980c9886cabef629b488af15336ae191ae9aaf35f663c/figma-capture-38.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---settings---notification-58-2195",
+          "nodeId": "58:2195"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "dc20376f931af697003dca04454963e8539086b3",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-39.png",
+      "reference": {
+        "documentId": "figma-capture-39",
+        "version": "efbe5c9fbeab33212f06fb7f6bb4f25b3cb397a64760df5f3fb4556a9a3bb87a",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "3da98ace46805c8e1dd433e96d637d9b2f172c0efb51d3baba608971fdf0247d",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/efbe5c9fbeab33212f06fb7f6bb4f25b3cb397a64760df5f3fb4556a9a3bb87a/figma-capture-39.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---settings---notification-58-2279",
+          "nodeId": "58:2279"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "f4aa7309ee906d20f4ef443ebc7859ec23398742",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-40.png",
+      "reference": {
+        "documentId": "figma-capture-40",
+        "version": "de6cbb8211bde9f73b06aef4ca67cec23033f3183fc64d7f484d0bbd242e4385",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "fb4867241045504438f6b67a972856e60c1fb00bea2eeca2a3d044e5deefef8e",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/de6cbb8211bde9f73b06aef4ca67cec23033f3183fc64d7f484d0bbd242e4385/figma-capture-40.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---dashboard-133-4811",
+          "nodeId": "133:4811"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "ebe73e116c49e516841ab658ffc7b60ee48e055b",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-41.png",
+      "reference": {
+        "documentId": "figma-capture-41",
+        "version": "cf68be8b0b0d68e21d05feee82c97b7fe544704e405de9b6a0692a9fcf25062a",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "2819e2705671592c35eb8e5c1cbe893cf9d824adf2c9a7f2b91b47a28c9fabb8",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/cf68be8b0b0d68e21d05feee82c97b7fe544704e405de9b6a0692a9fcf25062a/figma-capture-41.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---dashboard-133-5084",
+          "nodeId": "133:5084"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "73463ad3e8c6271a0c077e7862fd04ee57e5985e",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-42.png",
+      "reference": {
+        "documentId": "figma-capture-42",
+        "version": "134439cd8f908ffae7882fab9192f69aa8935299c4a5b2210ee0f6c310304801",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "f76da81441cc896f6659693ccb33ee60ef15db6d4e6f500b78ac98d395c4f634",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/134439cd8f908ffae7882fab9192f69aa8935299c4a5b2210ee0f6c310304801/figma-capture-42.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---task-133-5269",
+          "nodeId": "133:5269"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "6708b5476acd2775290ed9d27cc0e8bce62afed1",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-43.png",
+      "reference": {
+        "documentId": "figma-capture-43",
+        "version": "048dadd324aa4de2a93579c3d0126fa18e83bbf36f707200f04bd3eb6ca59adb",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "41fefc207024aca880b26bcb511140737c8657f2bc553da6bbbd1302697e1365",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/048dadd324aa4de2a93579c3d0126fa18e83bbf36f707200f04bd3eb6ca59adb/figma-capture-43.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---task-133-5523",
+          "nodeId": "133:5523"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "f559a1507d9cb98241f4eabe7e36c73fe950acf5",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-44.png",
+      "reference": {
+        "documentId": "figma-capture-44",
+        "version": "56dfce89e8e9a08ac6f6be1c5eba57094673a9fbfdec3a758b31b8e3ba1dc603",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "fab51293862c37eb0009bedee08a8f3a2077fcc7b8a38e4a473581b45c22b056",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/56dfce89e8e9a08ac6f6be1c5eba57094673a9fbfdec3a758b31b8e3ba1dc603/figma-capture-44.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---detail-task-133-5729",
+          "nodeId": "133:5729"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "a20bc3053aad013f98f88f1ee0ca35fa36f32d92",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-45.png",
+      "reference": {
+        "documentId": "figma-capture-45",
+        "version": "10218c357faa783441415e902981b20cba5a0b99a47fb74135ec9f22ac82c0b6",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "bc0d6f70bea523ffa8422f18e4290179c1f937b1858475429c0d9cdf4933096a",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/10218c357faa783441415e902981b20cba5a0b99a47fb74135ec9f22ac82c0b6/figma-capture-45.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---detail-task-133-5867",
+          "nodeId": "133:5867"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "82e11aecd1a8e0077a464e431b474ab6ad1a083f",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-46.png",
+      "reference": {
+        "documentId": "figma-capture-46",
+        "version": "8cea5f9b7ea5992ac96c15aadc68548aa75c80dde1207c07d96e629a3b0fa3ea",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "d5663e152ad7da450b30ae306ec1d9787f522c9229fc97570aa6a9950bfe539e",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/8cea5f9b7ea5992ac96c15aadc68548aa75c80dde1207c07d96e629a3b0fa3ea/figma-capture-46.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---mentors-133-5960",
+          "nodeId": "133:5960"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "884bf743afccf23a2b42603e0918b52aec677d50",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-47.png",
+      "reference": {
+        "documentId": "figma-capture-47",
+        "version": "439566048a68e81fdbf54f0fa9af246661a7001469ec67b08cd4c41a59d953c4",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "e3182bf1fcbf9056b05f70a576c003c903b695eb1fc0650964bae21ae2975e3b",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/439566048a68e81fdbf54f0fa9af246661a7001469ec67b08cd4c41a59d953c4/figma-capture-47.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---mentors-133-6171",
+          "nodeId": "133:6171"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "e43768800a7e1e1f3334dbef135c5cdcb7d925db",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-48.png",
+      "reference": {
+        "documentId": "figma-capture-48",
+        "version": "9ee7561a2b065d5d849782b5d0e9ef1ab7065ddb2bec31101de0d72aadeb6f89",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "4346194e9e55552aa62e8e8d73acd9ac13ff6c831b48ed47aa75e6eb324d879c",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/9ee7561a2b065d5d849782b5d0e9ef1ab7065ddb2bec31101de0d72aadeb6f89/figma-capture-48.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---message-133-6333",
+          "nodeId": "133:6333"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "03b6ab2e67b9d92d0e819f3b7083735c3e9ef694",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-49.png",
+      "reference": {
+        "documentId": "figma-capture-49",
+        "version": "8b44a3621f55ef78188c786f25239843db67bfe963c02c2239a536c7453d5be7",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "09e1a2dc839908f17cca836bcf1593bc57f504c744598cd3733126b20a4564d4",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/8b44a3621f55ef78188c786f25239843db67bfe963c02c2239a536c7453d5be7/figma-capture-49.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---message-133-6534",
+          "nodeId": "133:6534"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "68f473a1669282873ca326c175a123ee2b5a5409",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-50.png",
+      "reference": {
+        "documentId": "figma-capture-50",
+        "version": "f0f1b339f7e51a9d3300c37da647235ad086ff83d292d7189855f515ce7b59f4",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "7919b1e5c1f051579201890abf8ecfd72e4085a338100de3e6cf2b32cf08bcd0",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/f0f1b339f7e51a9d3300c37da647235ad086ff83d292d7189855f515ce7b59f4/figma-capture-50.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---message---chat-133-6643",
+          "nodeId": "133:6643"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "5da83bd6d4f05cea7fee7697b58c0ee7da376df2",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-51.png",
+      "reference": {
+        "documentId": "figma-capture-51",
+        "version": "424a9b69b6bd7fa07809de80cd63f0733ffa6206777730b980fa9e02de28045a",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "ac5492a2ed984ce06fc7decda62d3ffb196b73cb6b9826e80642947c496167b6",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/424a9b69b6bd7fa07809de80cd63f0733ffa6206777730b980fa9e02de28045a/figma-capture-51.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---settings---general-133-6695",
+          "nodeId": "133:6695"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "9a93d992f58f42c4ab24717e36efee817f624611",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-52.png",
+      "reference": {
+        "documentId": "figma-capture-52",
+        "version": "0286178151578f8ffe85ad82f935360287c805195b2aeb490f54a8045749c780",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "bf6ef86f3d422c381176ef7fa69693bf96416d2ec349c50620d5210850e3b366",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/0286178151578f8ffe85ad82f935360287c805195b2aeb490f54a8045749c780/figma-capture-52.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---settings---general-133-6779",
+          "nodeId": "133:6779"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "dda55df43e45280d3359dafc4ef25d9ad4456ccf",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-53.png",
+      "reference": {
+        "documentId": "figma-capture-53",
+        "version": "00dab9f8a41c7e0158fd71bb1f8e04361acd6d53f251d052fbe1e9cfc6375f5a",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "685cc7c708cf5f6c6758b4e04beceb0f6548d3436995cc98588cd9e9f0921f36",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/00dab9f8a41c7e0158fd71bb1f8e04361acd6d53f251d052fbe1e9cfc6375f5a/figma-capture-53.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---settings---notification-133-6822",
+          "nodeId": "133:6822"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "19f428426d9355efba4681e8c66077121d1dd6cb",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-54.png",
+      "reference": {
+        "documentId": "figma-capture-54",
+        "version": "db112a09e135e7988946a1d595384ea22bb70c3c5711c1e17ccaeedf02b08edf",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "70c4598de819e01cec3b5d0c76ea5729c639a4159c7825eb92d289a6efb88213",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/db112a09e135e7988946a1d595384ea22bb70c3c5711c1e17ccaeedf02b08edf/figma-capture-54.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---settings---notification-133-6908",
+          "nodeId": "133:6908"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "07adfbb5782aab56d2ffe3d32d5c8cdb6b12ac58",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-55.png",
+      "reference": {
+        "documentId": "figma-capture-55",
+        "version": "3a4893e4525fd8b964e1141cc22cbd77f2cbe25fc92d1f498c21a760bdcdfba3",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "d922eafdb5dd94f1c4aed046ac05c4ce4ff33c020b802cc4eca22a24a36b3d9c",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/3a4893e4525fd8b964e1141cc22cbd77f2cbe25fc92d1f498c21a760bdcdfba3/figma-capture-55.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---dashboard-133-7928",
+          "nodeId": "133:7928"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "aead89b3bbd77a3f7973beb13e8ba13e64d240c1",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-56.png",
+      "reference": {
+        "documentId": "figma-capture-56",
+        "version": "14f84b9cdcb270924ad4ca78a0a183cadbe40b504bd072b526cea40d1aafa2a8",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "2596ee02e56bbb0f4aea178613de1d9d4ba00057bb3147f9345946639c57b7ed",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/14f84b9cdcb270924ad4ca78a0a183cadbe40b504bd072b526cea40d1aafa2a8/figma-capture-56.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---dashboard-133-8172",
+          "nodeId": "133:8172"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "f37c40cbcdd22d0558837da95535cde0cb43ee7b",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-57.png",
+      "reference": {
+        "documentId": "figma-capture-57",
+        "version": "f725ebfe509fd16ec18e612bcc0301f21b92991343785266e041b32be64798cb",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "cf272f6049e58c7ac011d395b2568458dd332d66ef57c3c086290ecdd3c46018",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/f725ebfe509fd16ec18e612bcc0301f21b92991343785266e041b32be64798cb/figma-capture-57.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---task-133-8347",
+          "nodeId": "133:8347"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "552a9274fd5203e840e0fcd9781296dfe547eb71",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-58.png",
+      "reference": {
+        "documentId": "figma-capture-58",
+        "version": "1a32ecf23b9dd03b1fa82b392b7aea3085cbbe08d2d37fc508feff1931245f3c",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "e9185a5b2fd8f9408197ce4db1573234a85ec68b7ce2f0f46d128f6f05968382",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/1a32ecf23b9dd03b1fa82b392b7aea3085cbbe08d2d37fc508feff1931245f3c/figma-capture-58.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---task-133-8564",
+          "nodeId": "133:8564"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "f064e6ff2feb4bff5782dd1a5ec0c3eb73c180ca",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-59.png",
+      "reference": {
+        "documentId": "figma-capture-59",
+        "version": "25105f69a9cbbbfaeec3402aa378fc28e015a4ef554fef48589075b226b95ea6",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "c946ed8c34fed0ee44b884d0b5cca818edcd54aa414e1dc1722747e6fa79c4d6",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/25105f69a9cbbbfaeec3402aa378fc28e015a4ef554fef48589075b226b95ea6/figma-capture-59.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---detail-task-133-8634",
+          "nodeId": "133:8634"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "785e09dafc3388631600ba3e3bd5d88a0279d1d3",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-60.png",
+      "reference": {
+        "documentId": "figma-capture-60",
+        "version": "450843967e29f82d7028b4521d4742652047027b2bea96a232be2be0513cfaff",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "b3ad0c3f9b6f466e5b9cc9360d264b9230cada00cd918c042314d8dc87fce605",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/450843967e29f82d7028b4521d4742652047027b2bea96a232be2be0513cfaff/figma-capture-60.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---detail-task-133-8745",
+          "nodeId": "133:8745"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "94474f248cad468049eecdcb71da08234ed92bcc",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-61.png",
+      "reference": {
+        "documentId": "figma-capture-61",
+        "version": "4c84ce25a3ec160487d509be6f052836778fd9b5bf5aa3978c6881e5394947d9",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "2b92ef0a19a60d795e3f17e1819694ef6ae17b75df8220009648eb089171a09b",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/4c84ce25a3ec160487d509be6f052836778fd9b5bf5aa3978c6881e5394947d9/figma-capture-61.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---mentors-133-8818",
+          "nodeId": "133:8818"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "85763dae80da1eef29efde970fd5afa49f43104d",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-62.png",
+      "reference": {
+        "documentId": "figma-capture-62",
+        "version": "d88c3acd990032d659efb329151f7959ea1d228081c820d16c1f84c0085c1c86",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "5cb2f2aac38ece3f703f97fb3ccfb672299548212b019faef792a01e81d9260b",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/d88c3acd990032d659efb329151f7959ea1d228081c820d16c1f84c0085c1c86/figma-capture-62.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---mentors-133-9084",
+          "nodeId": "133:9084"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "0963e67d73670f3000b0c8982ce3dee4b7dddd80",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-63.png",
+      "reference": {
+        "documentId": "figma-capture-63",
+        "version": "4089faf8cdbc266da19b3b30856249772fd58a72857d252dc2bd4f6e233a4dfd",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "437d082ffa8d16aee4da454ba0ccc22a630665a97a1564398d4c72954e0d0c87",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/4089faf8cdbc266da19b3b30856249772fd58a72857d252dc2bd4f6e233a4dfd/figma-capture-63.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---message-133-9252",
+          "nodeId": "133:9252"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "86d1dd856f1c357cc3808e6c1f1defbd39f91665",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-64.png",
+      "reference": {
+        "documentId": "figma-capture-64",
+        "version": "602b8fcada1297ba6536c895e7ea494843973cbf3a04b82207d517717dbb5ec2",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "8cdf5d3c31ad991f16dd509097754a1ec74e9820829da677e42ef0481dc2fb96",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/602b8fcada1297ba6536c895e7ea494843973cbf3a04b82207d517717dbb5ec2/figma-capture-64.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---message-133-9411",
+          "nodeId": "133:9411"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "644615d603c53eccd45d3f5ef4f7d937808ceacc",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-65.png",
+      "reference": {
+        "documentId": "figma-capture-65",
+        "version": "886f1b95992abaa50677003e92a748df68329c6218ff0f419536fc610f273734",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "a80eb78690c20736114120b6abe19c0157cb8c88b204cef2c3c9906be1119c54",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/886f1b95992abaa50677003e92a748df68329c6218ff0f419536fc610f273734/figma-capture-65.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---message---chat-133-9501",
+          "nodeId": "133:9501"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "8627ebada0949f2771abb6e0dcdb693dbfa2fd63",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-66.png",
+      "reference": {
+        "documentId": "figma-capture-66",
+        "version": "c6f1be3946369bbd7b94ef9dc386a293e0d4662572490d72e595880df06aeda2",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "cd26ce676a977bd520d19d20ccd9a7a5227775eab54ac26e0eee01811b4f4bb0",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/c6f1be3946369bbd7b94ef9dc386a293e0d4662572490d72e595880df06aeda2/figma-capture-66.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---settings---general-133-9539",
+          "nodeId": "133:9539"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "db6fa4255ab58a95221e434da202f4b279976cb6",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-67.png",
+      "reference": {
+        "documentId": "figma-capture-67",
+        "version": "7eefce741e74bf74850bbfb9d64887503c11bed180956463f5c1c156e9940305",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "50a0a865443d67341f82a5e08ff796abc82d68a8fad47f250e7fcd829352a943",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/7eefce741e74bf74850bbfb9d64887503c11bed180956463f5c1c156e9940305/figma-capture-67.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---settings---general-133-9616",
+          "nodeId": "133:9616"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "e874ad01e51e2983fa65957de71ccb9a1530af37",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-68.png",
+      "reference": {
+        "documentId": "figma-capture-68",
+        "version": "f307640706d3918546d5daa102aa1aa2884d30cb46697e2b23b5093e574078d2",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "8652f9f075d10581ebad03f505d439dc4f1f307a1d465fc45b3d1b78942f9da0",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/f307640706d3918546d5daa102aa1aa2884d30cb46697e2b23b5093e574078d2/figma-capture-68.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-web---settings---notification-133-9660",
+          "nodeId": "133:9660"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "0e487c9e50e9831f784d9722f85a87315ff2b9a9",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    },
+    {
+      "path": "images/render-69.png",
+      "reference": {
+        "documentId": "figma-capture-69",
+        "version": "baf8a00688b4c2b710edf3bba324749bb5d48402d6bbc4805b9464bf1814254d",
+        "producer": "analysis",
+        "status": "generated",
+        "mediaType": "image/png",
+        "contentHash": "a48173dfcd2cc6888395238adf3e5cd8712967087aea80bf48c5ba9209beba74",
+        "path": "work/0f6def3a-0a64-4361-87ee-654c2a109562/executions/9dba7ca6-cf2b-442f-805b-f444f96c5344/nodes/analysis/generated/baf8a00688b4c2b710edf3bba324749bb5d48402d6bbc4805b9464bf1814254d/figma-capture-69.png",
+        "metadata": {
+          "sourceUrl": "https://www.figma.com/design/Ezc70J9Mih8Jsez3mJisza/Task-Management-Dashboard--Community-",
+          "figmaVersion": "2410903699439765849",
+          "designReference": "render-mobile---settings---notification-133-9739",
+          "nodeId": "133:9739"
+        },
+        "schemaVersion": 1,
+        "repository": "https://github.com/demeedogg/fullstack-Artifacts",
+        "branch": "project/fullstack",
+        "commitSha": "83c336de23afb2f4df242f82dfb8f8739ac75cf0",
+        "workId": "0f6def3a-0a64-4361-87ee-654c2a109562",
+        "executionId": "9dba7ca6-cf2b-442f-805b-f444f96c5344"
+      }
+    }
+  ]
+}
