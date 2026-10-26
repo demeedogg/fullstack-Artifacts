@@ -4,6 +4,7 @@ Work: 0f6def3a-0a64-4361-87ee-654c2a109562
 Execution: 9dba7ca6-cf2b-442f-805b-f444f96c5344
 
 - [backend — drafts — e06bb19d8c71](nodes/requirements_review/drafts/e06bb19d8c7148ea3ca4c9ef8518315b5c242cd4866569b2c531be6fcdb558d8/backend.md)
+- [decision-provenance — drafts — f3d428a7e737](nodes/requirements_review/drafts/f3d428a7e737ae619598ace2fd9033b0920c9b75b0e0b4e036226463dde0a3c1/decision-provenance.json)
 - [design_description-9dba7ca6-cf2b-442f-805b-f444f96c5344 — generated — ae439cde2433](nodes/analysis/generated/ae439cde2433093df2e0e141be08efb935f3a44a17e91d50bec667712bfa6ea9/design_description-9dba7ca6-cf2b-442f-805b-f444f96c5344.md)
 - [figma-capture-0-chunk-0 — generated — 469f33746a85](nodes/analysis/generated/469f33746a858e9ea496d8d6c4500b8b900b2eee73186f60660a4397ab680792/figma-capture-0-chunk-0.bin)
 - [figma-capture-0-chunk-1 — generated — 79c1d97586ba](nodes/analysis/generated/79c1d97586bac478587b2a03fb1ca567631b1697cfbe2daddb8c3cfbbbb7d994/figma-capture-0-chunk-1.bin)
