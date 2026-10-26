@@ -3,5 +3,6 @@
 Work: 0f6def3a-0a64-4361-87ee-654c2a109562
 Execution: 9dba7ca6-cf2b-442f-805b-f444f96c5344
 
+- [figma-capture-0-chunk-0 — generated — 469f33746a85](nodes/analysis/generated/469f33746a858e9ea496d8d6c4500b8b900b2eee73186f60660a4397ab680792/figma-capture-0-chunk-0.bin)
 - [repo_analysis-task-managment-backend-21c6dc4a — generated — 4e9972b11231](nodes/analysis/generated/4e9972b11231a396ca6e2c3ea1d1725d915cb849fef1f42816a98807724bdc5f/repo_analysis-task-managment-backend-21c6dc4a.md)
 - [repo_analysis-task-managment-frontend-8577187c — generated — c503a30e5d48](nodes/analysis/generated/c503a30e5d4824b16623e4a36832b3f4d059907eced8e412688cd19c58dd5ae3/repo_analysis-task-managment-frontend-8577187c.md)
